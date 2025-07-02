@@ -15,15 +15,7 @@ import org.jdom.CDATA;
 
 import static java.lang.Integer.parseInt;
 
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
 
-/**
- *
- * @author Shantanu
- */
 public class billing extends javax.swing.JFrame {
 
     private int finaltotal;
