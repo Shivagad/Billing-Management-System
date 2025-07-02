@@ -1,15 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
+
 import java.sql.*;
 import ConnectionPackage.ConnectionProvider;
 import javax.swing.JOptionPane;
 
-/**
- *
- * @author Shantanu
- */
+
 public class deleteBuyer extends javax.swing.JFrame {
 
     /**

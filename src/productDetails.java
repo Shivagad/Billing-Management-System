@@ -4,15 +4,7 @@ import ConnectionPackage.ConnectionProvider;
 import java.sql.*;
 import net.proteanit.sql.DbUtils;
 import java.awt.*;
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
 
-/**
- *
- * @author Shantanu
- */
 public class productDetails extends javax.swing.JFrame {
 
     /**

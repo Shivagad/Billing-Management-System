@@ -1,15 +1,9 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
+
 import javax.swing.*;
 import java.awt.*;
 import ConnectionPackage.ConnectionProvider;
 import java.sql.*;
-/**
- *
- * @author Shantanu
- */
+
 public class newProduct extends javax.swing.JFrame {
 
     /**
