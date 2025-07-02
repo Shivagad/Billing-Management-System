@@ -62,4 +62,4 @@ A simple desktop-based **Billing Management System** built using **Java Swing** 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/omkumavat/Billing-Management-System.git
+   git clone (https://github.com/Shivagad/Billing-Management-System.git)
