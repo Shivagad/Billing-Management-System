@@ -28,26 +28,42 @@ A desktop-based **Billing Management System** built with **Java Swing** (UI), **
 
 Below are screenshots of the main application pages:
 
+### Login
+![Login](./Output/login.png)
+
+### Menu
+![Menu](./Output/menu.png)
+
 ### Add Buyer
 ![Add Buyer](./Output/addbuyer.png)
 
+### Update Buyer
+![Update Buyer](./Output/updatebuyer.png)
+
+### Delete Buyer
+![Delete Buyer](./Output/deletebuyer.png)
+
+### Buyer Details
+![Buyer Details](./Output/buyerdetails.png)
+
 ### Add Product
 ![Add Product](./Output/addproduct.png)
+
+### Update Product
+![Update Product](./Output/updateproduct.png)
+
+### Delete Product
+![Delete Product](./Output/deleteproduct.png)
+
+### Product Details
+![Product Details](./Output/productdetails.png)
 
 ### Billing Page
 ![Billing Page 1](./Output/billingpage1.png)
 ![Billing Page 2](./Output/billingpage2.png)
 
-### Buyer Details
-![Buyer Details](./Output/buyerdetails.png)
-
-### Delete Buyer
-![Delete Buyer](./Output/deletebuyer.png)
-
-*Add more screenshots as needed from the `Output` folder.*
 
 ---
-
 ## 🧱 Database Schema
 
 ### 🔹 `buyer` Table
