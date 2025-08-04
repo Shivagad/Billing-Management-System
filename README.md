@@ -62,6 +62,10 @@ Below are screenshots of the main application pages:
 ![Billing Page 1](./Output/billingpage1.png)
 ![Billing Page 2](./Output/billingpage2.png)
 
+### Billing PDF
+![Billing PDF ](./Output/billPDF.png)
+
+
 
 ---
 ## 🧱 Database Schema
