@@ -63,7 +63,7 @@ Below are screenshots of the main application pages:
 ![Billing Page 2](./Output/billingpage2.png)
 
 ### Billing PDF
-![Billing PDF ](./Output/billPDF.png)
+![Billing PDF ](./Output/BillPDF.png)
 
 
 
