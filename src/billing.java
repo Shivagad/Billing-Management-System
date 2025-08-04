@@ -655,7 +655,7 @@ public class billing extends javax.swing.JFrame {
             String Address=jTextField4.getText();
             String Date=jLabel4.getText();
             String Time=jLabel6.getText();
-            String path="S:\\Billing-Management-System-main" + Name + "_" + Date + ".pdf";
+            String path = "S:\\BillingSystem\\Bill PDF\\" + Name + "_" + Date + ".pdf";
             com.itextpdf.text.Document doc=new com.itextpdf.text.Document();
             try
             {

@@ -9,6 +9,8 @@ public class newProduct extends javax.swing.JFrame {
     /**
      * Creates new form newProduct
      */
+
+
     public newProduct() {
         initComponents();
         this.setLocationRelativeTo(null);
